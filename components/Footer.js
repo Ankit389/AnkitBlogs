@@ -1,5 +1,5 @@
 "use client"; // Ensure this directive is present if Footer uses client-side features
-
+import Link from 'next/link';
 import { FaGithub, FaLinkedin, FaYoutube, FaEnvelope } from 'react-icons/fa';
 
 const Footer = () => {
@@ -7,9 +7,9 @@ const Footer = () => {
     <footer className="bg-slate-800 p-8 text-white border-t">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-8">
         {/* Logo Section */}
-        <div className="flex items-center space-x-2 mb-6 md:mb-0">
-          <img src='/ap.png' alt='logo' className='w-8 h-auto' />
-          <h2 className="font-bold text-xl">AnkitBlogs</h2>
+        <div className="flex items-center space-x-2  mb-6 md:mb-0">
+          <img src='/coder.png' alt='logo' className='w-20   rounded-xl h-auto' />
+          <Link href="/"><h2 className="font-bold text-xl">CodeMasters</h2></Link>
         </div>
 
         {/* Community Section */}

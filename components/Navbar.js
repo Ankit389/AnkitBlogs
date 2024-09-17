@@ -49,9 +49,9 @@ const Navbar = () => {
             />
             <div className="container mx-auto flex justify-between items-center">
                 <Link href={"/"} className="flex items-center space-x-2">
-                    <img src="ap.png" alt="Logo" className="w-8 h-auto" />
-                    <div className="text-lg font-bold">
-                         AnkitBlogs
+                    <img src="hp.png" alt="Logo" className="w-10 h-auto  rounded-xl" />
+                    <div className="text-lg font-bold  justify-between   items-center">
+                    CodeMasters
                     </div>
                 </Link>
 
