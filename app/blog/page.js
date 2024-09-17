@@ -38,7 +38,7 @@ const Blog = () => {
               {/* <a href={`/blogpost/${blog.slug}`} className="text-blue-500 hover:underline font-medium">
   Read more
 </a> */}
-<Link href={`/blogpost/${blog.slug}`} className={buttonVariants({ variant: "outline" })}>Click here</Link>
+<Link href={`/blogpost/${blog.slug}`} className={buttonVariants({ variant: "outline",className:" bg-purple-800  text-white"  })}>Click here</Link>
 
             </div>
           </div>

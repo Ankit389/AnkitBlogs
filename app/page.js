@@ -49,7 +49,7 @@ export default function Home() {
               <button className="px-6 py-3 bg-black text-white rounded-full text-lg">
                 Start now
               </button>
-              <button className="ml-4 px-6 py-3 bg-transparent border border-white text-white rounded-full text-lg">
+              <button className="ml-4 px-6 py-3  border  bg-black border-white text-white rounded-full text-lg">
                 Contact sales
               </button>
             </div>
