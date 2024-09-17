@@ -4,9 +4,9 @@ import Image from 'next/image'; // If you are using Next.js
 const ContactPage = () => {
   return (
     <div
-      className="flex items-center justify-center min-h-screen  bg-slate-400"
+      className="flex items-center justify-center min-h-screen  "
       style={{
-        backgroundImage: `url('/https://images.pexels.com/photos/9864607/pexels-photo-9864607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')`, // Replace with the actual image path
+        backgroundImage: `url('/bg2.png')`, // Replace with the actual image path
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}
@@ -18,7 +18,7 @@ const ContactPage = () => {
         <form>
           <div className="grid grid-cols-1 gap-4">
             <div>
-              <label className="block text-gray-700">First Name *</label>
+              <label className="block">First Name *</label>
               <input
                 type="text"
                 className="w-full p-2 border border-gray-300 rounded-md"

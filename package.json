@@ -36,15 +36,19 @@
     "shiki": "^1.17.6",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
+    "typed-js": "^0.2.3",
     "typed.js": "^2.1.0",
     "unified": "^11.0.5"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
+    "@types/node": "^22.5.5",
+    "@types/react": "^18.3.7",
     "autoprefixer": "^10.4.20",
     "eslint": "^8",
     "eslint-config-next": "14.2.11",
     "postcss": "^8.4.47",
-    "tailwindcss": "^3.4.11"
+    "tailwindcss": "^3.4.11",
+    "typescript": "^5.6.2"
   }
 }
