@@ -266,7 +266,8 @@ export default function Home() {
             <div className="w-full sm:w-1/2 lg:w-1/3 p-4">
               <div className="p-6 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
                 <Image
-                  src="/post.png"
+                  src="/post.png" 
+                  alt="Bolg 1"
                   width={267}
                   height={189}
                   className="w-full h-64 object-cover rounded-t-lg"
