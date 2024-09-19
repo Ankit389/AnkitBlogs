@@ -265,7 +265,7 @@ export default function Home() {
             {/* Blog 1 */}
             <div className="w-full sm:w-1/2 lg:w-1/3 p-4">
               <div className="p-6 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
-                <img
+                <Image
                   src="post.png"
                   className="w-full h-64 object-cover rounded-t-lg"
                 />
@@ -286,7 +286,7 @@ export default function Home() {
             {/* Blog 2 */}
             <div className="w-full sm:w-1/2 lg:w-1/3 p-4">
               <div className="p-6 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
-                <img
+                <Image
                   src="https://images.pexels.com/photos/1181472/pexels-photo-1181472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                   alt="Blog 2"
                   className="w-full h-64 object-cover rounded-t-lg"
@@ -308,7 +308,7 @@ export default function Home() {
             {/* Blog 3 */}
             <div className="w-full sm:w-1/2 lg:w-1/3 p-4">
               <div className="p-6 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
-                <img
+                <Image
                   src="https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg"
                   alt="Blog 3"
                   className="w-full h-64 object-cover rounded-t-lg"
@@ -719,7 +719,7 @@ export default function Home() {
 //             {/* Blog 1 */}
 //             <div className="w-full sm:w-1/2 lg:w-1/3 p-4">
 //               <div className="p-6 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
-//                 <img
+//                 <Image
 //                   src="post.png"
 //                   className="w-full h-64 object-cover rounded-t-lg"
 //                 />
@@ -740,7 +740,7 @@ export default function Home() {
 //             {/* Blog 2 */}
 //             <div className="w-full sm:w-1/2 lg:w-1/3 p-4">
 //               <div className="p-6 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
-//                 <img
+//                 <Image
 //                   src="https://images.pexels.com/photos/1181472/pexels-photo-1181472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 //                   alt="Blog 2"
 //                   className="w-full h-64 object-cover rounded-t-lg"
@@ -762,7 +762,7 @@ export default function Home() {
 //             {/* Blog 3 */}
 //             <div className="w-full sm:w-1/2 lg:w-1/3 p-4">
 //               <div className="p-6 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
-//                 <img
+//                 <Image
 //                   src="https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg"
 //                   alt="Blog 3"
 //                   className="w-full h-64 object-cover rounded-t-lg"
