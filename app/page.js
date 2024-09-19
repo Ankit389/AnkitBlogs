@@ -29,7 +29,7 @@ export default function Home() {
 
   return (
     <main>
-      <div className="flex flex-col lg:flex-row min-h-screen bg-gradient-to-tr from-yellow-400 via-pink-500 to-purple-700">
+      <div className="flex flex-col lg:flex-row  bg-gradient-to-tr from-yellow-400 via-pink-500 to-purple-700">
         {/* Left Section */}
         <div className="flex-1 flex items-center justify-center p-10 lg:p-20 text-center">
           <div>
@@ -42,7 +42,7 @@ export default function Home() {
             </h1>
             <p className="mt-6 text-white text-xl">
               At CodeMasters, we provide tailored coding solutions designed to
-              solve real-world problems. Whether you're debugging, learning new
+              solve real-world problems. Whether you&#39;re debugging, learning new
               concepts, or developing full-scale applications, our resources and
               expertise are here to guide you every step of the way.
             </p>
@@ -61,7 +61,7 @@ export default function Home() {
         <div className="flex-1 flex items-center justify-center p-10 lg:p-20">
           <div className=" rounded-lg shadow-lg p-8">
             <Image
-              src="/coding.png" // Make sure the file is in the 'public' directory
+              src="/coding.png" // Make sure the file is in the &#39;public&#39; directory
               alt="3D Animation Workstation"
               width={800}
               height={600}
@@ -315,7 +315,7 @@ export default function Home() {
                 />
                 <div className="mt-4">
                   <h3 className="text-xl font-semibold text-gray-800 dark:text-gray-200">
-                  Back-End Development
+                  Full Stack  Web Developer
                   </h3>
                   <p className="mt-2 text-gray-600 dark:text-gray-400">
                     A brief description of the blog post goes here. It should be
@@ -370,7 +370,7 @@ export default function Home() {
 //               </span>
 //             </h1>
 //             <p className="mt-6 text-white text-xl">
-//               At CodeMasters, we provide tailored coding solutions designed to solve real-world problems. Whether you're debugging,
+//               At CodeMasters, we provide tailored coding solutions designed to solve real-world problems. Whether you&#39;re debugging,
 //               learning new concepts, or developing full-scale applications, our resources and expertise are here to guide you every step
 //               of the way.
 //             </p>
@@ -496,7 +496,7 @@ export default function Home() {
 //             </h1>
 //             <p className="mt-6 text-white text-xl">
 //               At CodeMasters, we provide tailored coding solutions designed to
-//               solve real-world problems. Whether you're debugging, learning new
+//               solve real-world problems. Whether you&#39;re debugging, learning new
 //               concepts, or developing full-scale applications, our resources and
 //               expertise are here to guide you every step of the way.
 //             </p>
@@ -515,7 +515,7 @@ export default function Home() {
 //         <div className="flex-1 flex items-center justify-center p-10 lg:p-20">
 //           <div className=" rounded-lg shadow-lg p-8">
 //             <Image
-//               src="/coding.png" // Make sure the file is in the 'public' directory
+//               src="/coding.png" // Make sure the file is in the &#39;public&#39; directory
 //               alt="3D Animation Workstation"
 //               width={800}
 //               height={600}
