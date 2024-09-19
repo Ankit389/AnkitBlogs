@@ -3,6 +3,7 @@ import React from 'react';
   import { buttonVariants } from '@/components/ui/button';
   import fs from "fs";
 import matter from 'gray-matter';
+import Image from 'next/image';
 
 
 const dirContent = fs.readdirSync("content", "utf-8")
@@ -24,7 +25,7 @@ const Blog = () => {
             key={index}
             className=" rounded-lg shadow-lg dark:border-2 overflow-hidden transform hover:scale-105 transition-transform duration-300"
           >
-            <img
+            <Image
               src={blog.image}
               alt={blog.title}
               className="w-full h-48 object-cover"
