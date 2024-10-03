@@ -4,7 +4,7 @@ description: This is JavaScript tutorial and this is for learning JavaScript
 slug: exploring-typescript 
 date: 01/01/1978
 author: Brian Kernighan Dennis Ritchie
-image: type.png    
+image: /type.png    
 ---
 
 

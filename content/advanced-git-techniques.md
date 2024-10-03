@@ -4,7 +4,9 @@ description: Collaborative Git workflows and best practices for teams.
 slug: advanced-git-techniques
 date: 02/03/2016
 author:  P. J. Hyett, 
-image: git.png    
+image: /git.png
+
+ 
 ---
 
 ### introduction 

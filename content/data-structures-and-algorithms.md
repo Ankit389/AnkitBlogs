@@ -4,7 +4,7 @@ description: Data Structures and Algorithms (DSA) are the building blocks for cr
 slug: data-structures-and-algorithms
 date:  12/03/1970
 author:  Donald Knuth
-image: dsa.png    
+image: /dsa.png    
 ---
 
 

@@ -4,7 +4,7 @@ description :  language that supports structured programming and provides low-le
 slug: c-programming-tutorial
 date: 02/03/2025
 author: Dennis Ritchie
-image: c++.png    
+image: /c++.png    
 ---
 
 Welcome to this comprehensive C programming tutorial! Whether you're a complete beginner or looking to deepen your understanding of C, this guide will take you through the fundamentals and introduce advanced concepts as you progress.

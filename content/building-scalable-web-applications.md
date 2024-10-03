@@ -4,7 +4,7 @@
  slug: building-scalable-web-applications
  date:  01/01/1996
  author: MD Mursalin
- image: web.png   
+ image: /web.png   
 
 
 

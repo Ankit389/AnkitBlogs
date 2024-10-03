@@ -4,7 +4,7 @@ description: An in-depth look at CSS Grid and Flexbox for responsive layouts.
 slug: mastering-css-grid-flexbox
 date: 01/08/1996
 author: Håkon Wium Lie
-image: css.png
+image: /css.png
 ---
 
 ### introduction 

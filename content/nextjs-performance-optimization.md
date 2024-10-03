@@ -4,7 +4,7 @@ description: Maximize the performance of your Next.js applications.
 slug: nextjs-performance-optimization
 date: 02/10/2018
 author: Guillermo Rauch
-image: next.png    
+image: /next.png    
 ---
 
 

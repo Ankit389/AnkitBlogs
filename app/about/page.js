@@ -15,7 +15,8 @@ export default function About() {
                 <Image
                   src="/about.png"
                   alt="About"
-                  sizes="(max-width: 600px) 100vw, 50vw"
+                  height={803}
+                  width={947}
                   style={{ objectFit: 'cover' }}
                   className="rounded-full"
                 />

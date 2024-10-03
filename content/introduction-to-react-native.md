@@ -4,7 +4,7 @@ description :  Learn the fundamentals of building mobile apps with React Native.
 slug: introduction-to-react-native
 date: 01/01/2015
 author: Jordan Walke
-image: react.png    
+image: /react.png    
 ---
 
 

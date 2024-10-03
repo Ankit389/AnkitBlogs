@@ -4,7 +4,7 @@ description: A beginner-friendly guide to understanding Node.js and backend deve
 slug: nextjs-performance-optimization
 date: 27/05/2009
 author: 	Ryan Dah
-image: node.png    
+image: /node.png    
 ---
 
 Getting Started with Node.js

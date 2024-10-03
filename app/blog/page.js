@@ -28,6 +28,8 @@ const Blog = () => {
             <Image
               src={blog.image}
               alt={blog.title}
+              width={500}
+              height={500}
               className="w-full h-48 object-cover"
             />
             <div className="p-6">
